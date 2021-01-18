@@ -6,15 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: Monero Policy Working Group 
+title: Monero Policy Working Group (MPWG)
 
 # Your name to show in the footer
-author: MPWG
+author: Monero Policy Working Group 
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About: "about"
+  Twitter: "https://twitter.com/MoneroPolicy"
   Resources:
     - What is Monero?: "https://www.getmonero.org/get-started/what-is-monero"
     - FAQ: "https://www.getmonero.org/get-started/faq"
