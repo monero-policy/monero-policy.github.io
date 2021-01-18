@@ -5,7 +5,7 @@ subtitle: Why MPWG supports rule change
 cover-img: /assets/img/pexels-burst-374103.jpg
 thumbnail-img: /assets/img/pexels-burst-374103.jpg
 share-img: /assets/img/pexels-burst-374103.jpg
-gh-repo: daattali/beautiful-jekyll
+gh-repo: monero-policy/monero-policy.github.io
 gh-badge: [star, fork, follow]
 tags: [fincen, unhosted]
 comments: true
