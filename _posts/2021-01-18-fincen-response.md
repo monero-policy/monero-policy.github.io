@@ -2,7 +2,9 @@
 layout: post
 title: Complement to FinCEN response
 subtitle: Why MPWG supports rule change
-cover-img: /assets/img/fincen.png
+cover-img: /assets/img/pexels-burst-374103.jpg
+thumbnail-img: /assets/img/pexels-burst-374103.jpg
+share-img: /assets/img/pexels-burst-374103.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [fincen, unhosted]
