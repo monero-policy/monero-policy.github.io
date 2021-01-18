@@ -16,6 +16,7 @@ author: Monero Policy Working Group
 navbar-links:
   About: "about"
   Twitter: "https://twitter.com/MoneroPolicy"
+  Git: "https://github.com/monero-policy"
   Resources:
     - What is Monero?: "https://www.getmonero.org/get-started/what-is-monero"
     - FAQ: "https://www.getmonero.org/get-started/faq"
