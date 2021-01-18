@@ -20,7 +20,6 @@
     <!-- Start new comment form -->
     <div class="page__comments-form">
       <h3 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_label | default: "Leave a Comment" }}</h3>
-      <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email address will not be published. Required fields are marked" }} <span class="required">*</span></p>
       <form id="new_comment" class="page__comments-form js-form form" method="post">
         <div class="form-group">
           <label for="comment-form-message">{{ site.data.ui-text[site.locale].comment_form_comment_label | default: "Comment" }} <small class="required">*</small></label><br>
@@ -28,16 +27,8 @@
           <div class="small form-text"><a href="https://daringfireball.net/projects/markdown/">{{ site.data.ui-text[site.locale].comment_form_md_info | default: "Markdown is supported." }}</a></div>
         </div>
         <div class="form-group">
-          <label for="comment-form-name">{{ site.data.ui-text[site.locale].comment_form_name_label | default: "Name" }} <small class="required">*</small></label>
+          <label for="comment-form-name">{{ site.data.ui-text[site.locale].comment_form_name_label | default: "Name/Nick" }} <small class="required">*</small></label>
           <input type="text" id="comment-form-name" name="fields[name]" tabindex="2" />
-        </div>
-        <div class="form-group">
-          <label for="comment-form-email">{{ site.data.ui-text[site.locale].comment_form_email_label | default: "Email address" }} <small class="required">*</small></label>
-          <input type="email" id="comment-form-email" name="fields[email]" tabindex="3" />
-        </div>
-        <div class="form-group">
-          <label for="comment-form-url">{{ site.data.ui-text[site.locale].comment_form_website_label | default: "Website (optional)" }}</label>
-          <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
         </div>
         <div class="form-group d-none" style="display: none;">
           <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
