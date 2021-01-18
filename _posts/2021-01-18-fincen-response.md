@@ -2,9 +2,10 @@
 layout: post
 title: Complement to FinCEN response
 subtitle: Why MPWG supports rule change
+cover-img: /assets/img/fincen.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [fincen]
+tags: [fincen, unhosted]
 comments: true
 ---
 
