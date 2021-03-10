@@ -18,6 +18,7 @@ navbar-links:
   Twitter: "https://twitter.com/MoneroPolicy"
   Git: "https://github.com/monero-policy"
   Resources:
+    - MPWG Documents Repository: "https://github.com/monero-policy/docs"
     - What is Monero?: "https://www.getmonero.org/get-started/what-is-monero"
     - FAQ: "https://www.getmonero.org/get-started/faq"
 
