@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Complement to FinCEN response
+title: Comment on FinCEN response
 subtitle: Why MPWG supports rule change
 cover-img: https://moneropolicy.org/assets/img/pexels-burst-374103.jpg
 thumbnail-img: https://moneropolicy.org/assets/img/pexels-burst-374103.jpg
