@@ -58,4 +58,4 @@ Should FinCEN not take a stand to get the industry on the same page and to addre
 In short, Monero aims to be digital cash, and we believe that regulators should enforce existing regulations for cash on other bearer assets. The risks inherent in cash transactions are present in Monero and Bitcoin, and similar risk mitigations may be applied in these cases.
 
 
-*The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, nor should it be relied upon for any purpose by third parties.*
+*The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](https://moneropolicy.org/about/).*
