@@ -31,7 +31,7 @@ Privacy-focused research and development is essential for human rights. In the c
 
 On September 9, 2022, six American citizens filed a complaint against the Department of the Treasury and the Office of Foreign Assets Control in U.S. District Court. This lawsuit is funded by Coinbase, who described their reasoning [here](https://blog.coinbase.com/defending-privacy-in-crypto-e09db33dece8) and [here](https://blog.coinbase.com/sanctions-should-target-bad-actors-not-technology-cb541ac6839a).
 
-[The lawsuit](https://www.scribd.com/document/592848760/FINAL-Tornado-Cash-Complaint) aims for a judgment that the Tornado Cash sanction designation is null and void, is in excess of the authority granted to Treasury, and is unconstitutional.
+[The lawsuit](/assets/external/622-cv-00920-ADA-JCM Joseph Van Loon et al v. Department of the Treasury et al.pdf) aims for a judgment that the Tornado Cash sanction designation is null and void, is in excess of the authority granted to Treasury, and is unconstitutional.
 
 We are pleased that these brave six individuals agreed to step up and publicly declare that they have used Tornado Cash for completely legal purposes. We believe this is a sensible court challenge that aims to clearly prevent the Department of Treasury from being able to sanction open-source tools.
 
